@@ -20,7 +20,7 @@
                         </div>
                         <div class="dropdown-menu right col-md-1">
                             <a class="dropdown-item" href="#" @click="goToQLDangNhap">Đăng xuất</a>
-                            <a class="dropdown-item" href="#" @click="goToDoiMatKHau">Đổi mật khẩu</a>
+                            <!-- <a class="dropdown-item" href="#" @click="goToDoiMatKHau">Đổi mật khẩu</a> -->
                         </div>
                     </div>
                 </a>

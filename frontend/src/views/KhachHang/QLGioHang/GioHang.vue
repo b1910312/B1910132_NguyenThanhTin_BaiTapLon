@@ -158,7 +158,7 @@
 
                </div>
 
-               <div class="dathang container m-5 ">
+               <div class="dathang container ">
                     <div v-if="isOpenDatHang" class="card p-3 border border-warning">
                          <h3 class="bg bg-warning text-white" style="text-align:center">ĐƠN HÀNG</h3>
                          <div class="card p-3 border border-warning">
